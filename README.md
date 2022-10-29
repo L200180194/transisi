@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## KETERANGAN
+file bernama app-release.apk merupakan hasil build apk dari project ini
+
+Untuk dapat login dan sign up harus menggunakan email dari api reqres
+email yang dapat digunakan : michael.lawson@reqres.in
+password dan data lainya bebas diisikan 
